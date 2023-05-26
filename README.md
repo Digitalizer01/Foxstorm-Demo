@@ -1,5 +1,8 @@
 # Foxstorm Game
 
+![Screenshot](Images/Screenshot1.png)
+![Screenshot](Images/Screenshot2.png)
+
 ## Table of Contents
 1. [Description](#description)
 2. [Game Engine](#game-engine)
